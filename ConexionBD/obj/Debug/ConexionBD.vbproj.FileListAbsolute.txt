@@ -1,0 +1,10 @@
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\bin\Debug\ConexionBD.dll
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\bin\Debug\ConexionBD.pdb
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\bin\Debug\ConexionBD.xml
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.vbproj.AssemblyReference.cache
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.Resources.resources
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.vbproj.GenerateResource.cache
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.vbproj.CoreCompileInputs.cache
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.dll
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.xml
+D:\CUC\II Cuatri 2022\Porgramación II\proyecto II\II avance\ProyectoCarritoCompras\ConexionBD\obj\Debug\ConexionBD.pdb

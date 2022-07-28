@@ -64,7 +64,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.vb" />
+    <Compile Include="ClaseCarrito.vb" />
+    <Compile Include="ClaseFactura.vb" />
+    <Compile Include="ClaseLogin.vb" />
+    <Compile Include="CLaseUsuario.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -99,6 +102,12 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConexionBD\ConexionBD.vbproj">
+      <Project>{efde8dd5-88f9-4f33-bf45-a559886703ad}</Project>
+      <Name>ConexionBD</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
