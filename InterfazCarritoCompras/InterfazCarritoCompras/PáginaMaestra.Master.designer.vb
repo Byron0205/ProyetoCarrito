@@ -11,7 +11,16 @@ Option Strict On
 Option Explicit On
 
 
-Partial Public Class frmIngresoUsuario
+Partial Public Class PáginaMaestra
+
+    '''<summary>
+    '''Control head.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents head As Global.System.Web.UI.WebControls.ContentPlaceHolder
 
     '''<summary>
     '''Control form1.
@@ -23,101 +32,56 @@ Partial Public Class frmIngresoUsuario
     Protected WithEvents form1 As Global.System.Web.UI.HtmlControls.HtmlForm
 
     '''<summary>
-    '''Control lblCedula.
+    '''Control lblTitulo.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents lblCedula As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents lblTitulo As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''Control TxtCedula.
+    '''Control Inicio.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TxtCedula As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents Inicio As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control LblNombre.
+    '''Control AcercaDe.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents LblNombre As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents AcercaDe As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control TxtNombre.
+    '''Control IniciarSesion.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TxtNombre As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents IniciarSesion As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control LblContrasena.
+    '''Control Registrarse.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents LblContrasena As Global.System.Web.UI.WebControls.Label
+    Protected WithEvents Registrarse As Global.System.Web.UI.WebControls.Button
 
     '''<summary>
-    '''Control TxtContraseña.
+    '''Control ContentPlaceHolder1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TxtContraseña As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''Control LblTelefono.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents LblTelefono As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Control TxtTelefono.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents TxtTelefono As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''Control LblCorreo.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents LblCorreo As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Control TxtCorreo.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents TxtCorreo As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
-    '''Control BtnAceptar.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents BtnAceptar As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents ContentPlaceHolder1 As Global.System.Web.UI.WebControls.ContentPlaceHolder
 End Class

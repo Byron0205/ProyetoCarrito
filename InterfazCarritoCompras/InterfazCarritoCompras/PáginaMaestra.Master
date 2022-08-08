@@ -1,0 +1,36 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="PáginaMaestra.master.vb" Inherits="InterfazCarritoCompras.PáginaMaestra" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="Style.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                <div class="DivTitulo1">
+                    <asp:Label ID="lblTitulo" runat="server" Text="Tienda de Ropa" CssClass="Titulo1"></asp:Label>    
+                </div>
+                <div class="NavBar">
+                    <div class="NavBar-group1">
+                        <asp:Button ID="Inicio" CssClass="btnNavBar" runat="server" Text="Inicio" PostBackUrl="~/Formulario web1.aspx" />
+                        <asp:Button ID="AcercaDe" CssClass="btnNavBar" runat="server" Text="Acerca de" PostBackUrl="~/Formulario web3.aspx" />
+                    </div>
+                    <div class="NavBar-group2">    
+                        <asp:Button ID="IniciarSesion" CssClass="btnNavBar" runat="server" Text="Iniciar Sesión" />
+                        <asp:Button ID="Registrarse" CssClass="btnNavBar" runat="server" Text="Registrarse" PostBackUrl="~/Formulario web2.aspx" />
+                    </div>
+                </div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                </asp:ContentPlaceHolder>
+            
+        </div>
+    </form>
+</body>
+</html>

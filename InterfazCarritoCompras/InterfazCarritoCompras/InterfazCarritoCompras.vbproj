@@ -92,16 +92,38 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="frmIngresoUsuario.aspx" />
+    <Content Include="Formulario web1.aspx" />
+    <Content Include="Formulario web2.aspx" />
+    <Content Include="Formulario web3.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="img\CamisaA.png" />
+    <Content Include="img\camisaB.jpg" />
+    <Content Include="img\pantalonA.jpg" />
+    <Content Include="img\pantalonB.jpg" />
+    <Content Include="img\tennis.jpg" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmIngresoUsuario.aspx.designer.vb">
-      <DependentUpon>frmIngresoUsuario.aspx</DependentUpon>
+    <Compile Include="Formulario web1.aspx.designer.vb">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoUsuario.aspx.vb">
-      <DependentUpon>frmIngresoUsuario.aspx</DependentUpon>
+    <Compile Include="Formulario web1.aspx.vb">
+      <DependentUpon>Formulario web1.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web2.aspx.designer.vb">
+      <DependentUpon>Formulario web2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web2.aspx.vb">
+      <DependentUpon>Formulario web2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Formulario web3.aspx.designer.vb">
+      <DependentUpon>Formulario web3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario web3.aspx.vb">
+      <DependentUpon>Formulario web3.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">
@@ -126,6 +148,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="PáginaMaestra.Master.designer.vb">
+      <DependentUpon>PáginaMaestra.Master</DependentUpon>
+    </Compile>
+    <Compile Include="PáginaMaestra.Master.vb">
+      <DependentUpon>PáginaMaestra.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -146,6 +175,7 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="packages.config" />
+    <Content Include="PáginaMaestra.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

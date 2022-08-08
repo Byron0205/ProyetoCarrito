@@ -1,0 +1,112 @@
+﻿body {
+    background-color: #FFCDB2;
+}
+
+.DivTitulo1 {
+    background-color: #2E4347;
+    /*margin: 1rem;
+    padding: 1rem;*/
+    border: 2px solid #ccc;
+    text-align: center;
+}
+
+.Titulo1{
+    font-size: xx-large;
+    font-family: "Consolas";
+    color: #FFF8D4;
+
+}
+
+.NavBar {
+    background-color: #405e64;
+    margin: 0px 0px 20px 0px;
+    padding: 5px 0 5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.NavBar-group2 .btnNavBar:last-of-type {
+    color: #FFF8D4;
+}
+
+
+.btnNavBar {
+    border: none;
+    font-size: x-large;
+    background-color: #405e64;
+    margin: 10px;
+    color:white;
+}
+
+.btnNavBar:hover{
+    color:blue;
+}
+
+/*Estilos ventana principal*/
+.Productos {
+    display: flex;
+    flex-direction:row;
+    align-content:center;
+    margin: 0 15% 0 20%;
+    flex-grow: 10;
+}
+
+
+.Producto{
+   align-content:flex-start;
+   margin: 0px 0px 30px 0px;
+    width: 322px;
+
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.precio {
+    display: flex;
+    flex-direction: row;
+}
+
+
+/*Estilos de formulario ingreso usuarios web2*/
+.Titulo2 {
+    font-size: large;
+    font-family: Arial;
+    color: white;
+}
+
+.Padre {
+    display: flex;
+    justify-content: center;
+}
+
+.Hijo {
+    padding: 2px;
+    margin: 10px;
+    text-align: center;
+}
+
+.Formulario {
+    background-color: #999999;
+}
+
+.BotonAgregar {
+    text-align: right;
+}
+
+.Hijo1 {
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial;
+}
+
+.Formulario2 {
+    background-color: #F6F2C4;
+}

@@ -37,16 +37,241 @@ InterfazCarritoCompras
  Devuelve el objeto de registro Asp.
  </summary>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._form1">
+<member name="F:InterfazCarritoCompras.Formulario_web1._camisa1">
 <summary>
-Control form1.
+Control camisa1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._lblCedula">
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblcamisa1Nom">
+<summary>
+Control lblcamisa1Nom.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._precio1">
+<summary>
+Control precio1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblcamisa1Precio">
+<summary>
+Control lblcamisa1Precio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._verMas1">
+<summary>
+Control verMas1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._camisa2">
+<summary>
+Control camisa2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblcamisa2Nom">
+<summary>
+Control lblcamisa2Nom.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._precio2">
+<summary>
+Control precio2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblcamisa2Precio">
+<summary>
+Control lblcamisa2Precio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._verMas2">
+<summary>
+Control verMas2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._pantalon1">
+<summary>
+Control pantalon1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblpantalon1Nom">
+<summary>
+Control lblpantalon1Nom.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._precio3">
+<summary>
+Control precio3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblpantalon1Precio">
+<summary>
+Control lblpantalon1Precio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._verMas3">
+<summary>
+Control verMas3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._pantalon2">
+<summary>
+Control pantalon2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblpantalon2Nom">
+<summary>
+Control lblpantalon2Nom.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._precio4">
+<summary>
+Control precio4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lblpantalon2Precio">
+<summary>
+Control lblpantalon2Precio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._verMas4">
+<summary>
+Control verMas4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._tenis">
+<summary>
+Control tenis.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lbltenisNom">
+<summary>
+Control lbltenisNom.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._precio5">
+<summary>
+Control precio5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._lbltenisPrecio">
+<summary>
+Control lbltenisPrecio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web1._verMas5">
+<summary>
+Control verMas5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblTituloFormulario">
+<summary>
+Control lblTituloFormulario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblCedula">
 <summary>
 Control lblCedula.
 </summary>
@@ -55,90 +280,243 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._TxtCedula">
+<member name="F:InterfazCarritoCompras.Formulario_web2._txtCedula">
 <summary>
-Control TxtCedula.
+Control txtCedula.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._LblNombre">
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblNombre">
 <summary>
-Control LblNombre.
+Control lblNombre.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._TxtNombre">
+<member name="F:InterfazCarritoCompras.Formulario_web2._txtNombre">
 <summary>
-Control TxtNombre.
+Control txtNombre.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._LblContrasena">
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblContrasena">
 <summary>
-Control LblContrasena.
+Control lblContrasena.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._TxtContraseña">
+<member name="F:InterfazCarritoCompras.Formulario_web2._txtContrasena">
 <summary>
-Control TxtContraseña.
+Control txtContrasena.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._LblTelefono">
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblTelefono">
 <summary>
-Control LblTelefono.
+Control lblTelefono.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._TxtTelefono">
+<member name="F:InterfazCarritoCompras.Formulario_web2._txtTelefono">
 <summary>
-Control TxtTelefono.
+Control txtTelefono.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._LblCorreo">
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblCorreo">
 <summary>
-Control LblCorreo.
+Control lblCorreo.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._TxtCorreo">
+<member name="F:InterfazCarritoCompras.Formulario_web2._txtCorreo">
 <summary>
-Control TxtCorreo.
+Control txtCorreo.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:InterfazCarritoCompras.frmIngresoUsuario._BtnAceptar">
+<member name="F:InterfazCarritoCompras.Formulario_web2._btnAgregar">
 <summary>
-Control BtnAceptar.
+Control btnAgregar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web2._lblError">
+<summary>
+Control lblError.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblCreador">
+<summary>
+Control lblCreador.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblNombre1">
+<summary>
+Control lblNombre1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblNombre2">
+<summary>
+Control lblNombre2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblTituloProyecto">
+<summary>
+Control lblTituloProyecto.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblAno">
+<summary>
+Control lblAno.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblTutora">
+<summary>
+Control lblTutora.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblProfe">
+<summary>
+Control lblProfe.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.Formulario_web3._lblCurso">
+<summary>
+Control lblCurso.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._head">
+<summary>
+Control head.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._lblTitulo">
+<summary>
+Control lblTitulo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._Inicio">
+<summary>
+Control Inicio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._AcercaDe">
+<summary>
+Control AcercaDe.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._IniciarSesion">
+<summary>
+Control IniciarSesion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._Registrarse">
+<summary>
+Control Registrarse.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:InterfazCarritoCompras.PáginaMaestra._ContentPlaceHolder1">
+<summary>
+Control ContentPlaceHolder1.
 </summary>
 <remarks>
 Campo generado automáticamente.

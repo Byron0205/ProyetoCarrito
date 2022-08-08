@@ -67,6 +67,7 @@
     <Compile Include="ClaseCarrito.vb" />
     <Compile Include="ClaseFactura.vb" />
     <Compile Include="ClaseLogin.vb" />
+    <Compile Include="ClaseProducto.vb" />
     <Compile Include="CLaseUsuario.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

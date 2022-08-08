@@ -7,7 +7,7 @@ Public Class ClaseLogin
     Dim _telefono As Integer
     Dim _correo As String
     Dim _tablaUsuarios As DataTable
-    Dim obj_Clientes As New CoenxionBDClientes
+    Dim obj_Clientes As New ConexionBDClientes
 
 
 #Region "atributos"
